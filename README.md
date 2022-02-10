@@ -1,3 +1,2 @@
 # DataDistillery
-A place where insights are brewed /n
-Concentrating insight for a MIND SHOT
+A cozy place for ideas to meet as insights are brewed
