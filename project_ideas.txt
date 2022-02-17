@@ -1,1 +1,30 @@
 IDEAS!!!!!
+
+--------------------------------------------------------------------------------------------
+Ideas from Aidan:
+--------------------------------------------------------------------------------------------
+Mood tracking based on music history:
+Tied to a spotify account (or other), score songs based on the emotions they convey.
+Display someones mood history based on listening history. Hardest part is scoring songs.
+We could crowdsource it, or use some complex learning algorithm to analyze it.
+Topics: app development, algorithms, data science
+
+Auto stock buying/selling algorithm:
+I have a version of this already that looks at running average and running standard deviation.
+We could expand it to look at volume and other factors. Hardest part is that I use the 
+Robinhood API, which is 15 minutes deleyed.
+Topics: Data science/financial analysis, algorithms, risk assesment
+
+A roomba that cleans up pet toys: 
+Have RFID chips in toys or something, the device will scoop them and put them back where
+they belong.
+Topics: Electronics, robotics, manufacturing, control systems
+
+Sports score sign like this:
+https://www.amazon.com/Tickercom-31-40-50-Content-Display-Breaking/dp/B08C5MHVXK
+that is much cheaper and programmable via an app.
+This sign is $800!!!! we could easily make one for $100 to $200!!!
+Topics: Electronics, networking, internet data, manufacturing, app development
+--------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------
